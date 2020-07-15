@@ -3,12 +3,12 @@
 Este es el proyecto inicial para el sitio web de melmack
 
 ### Notas:
-Recontruir los módulos de node:
+Reconstruir los módulos de node:
 ```
 npm install
 ```
 
-Y para contruir el build:
+Y para construir el build:
 ```
 npm run build
 ```
